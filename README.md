@@ -14,3 +14,6 @@ https://ais-pre-oa2dkhzl6yurxf5rmzp2zo-143329431905.europe-west1.run.app
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+##The Version Of Website
+`The Version Is 1.6`
