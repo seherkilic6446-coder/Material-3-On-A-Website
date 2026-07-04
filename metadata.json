@@ -1,0 +1,6 @@
+{
+  "name": "Material 3 Showcase",
+  "description": "An interactive showcase and educational guide on Google's Material 3 design system, featuring interactive components, color palettes, and typography styled with Nunito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
